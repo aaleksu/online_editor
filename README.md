@@ -1,4 +1,4 @@
 online_editor
 =============
 
-online_editor_extension
+Google Chrome extension which allow edit web-pages
